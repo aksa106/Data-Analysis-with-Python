@@ -4,7 +4,9 @@ ipykernel
 
 numpy
 
-pandas
+pandas 
+
+matplotlib
 
 
 
