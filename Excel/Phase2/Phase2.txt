@@ -1,0 +1,21 @@
+
+WORKING WITH DATA
+
+
+
+
+    1. Entering Data 
+
+        * Excel data is mainly:
+        (Text, Number, Dates)
+
+    2.
+
+
+
+
+
+
+
+
+
