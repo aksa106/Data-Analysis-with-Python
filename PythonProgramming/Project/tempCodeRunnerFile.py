@@ -1,25 +1,15 @@
-
-
-    
 def user_management():
 
     users = ["rahul", "aman", "priya"]
 
-    print("\n===== USER MANAGEMENT SYSTEM =====")
-    print("1. Register User")
-    print("2. View Users")
-    print("3. Exit")
-
-    choice = input("Enter your choice: ")
-
     while True:
 
-        # print("\n===== USER MANAGEMENT SYSTEM =====")
-        # print("1. Register User")
-        # print("2. View Users")
-        # print("3. Exit")
+        print("\n===== USER MANAGEMENT SYSTEM =====")
+        print("1. Register User")
+        print("2. View Users")
+        print("3. Exit")
 
-        # choice = input("Enter your choice: ")
+        choice = input("Enter your choice: ")
 
         if choice == "3":
             print("Program Closed.")
@@ -65,8 +55,3 @@ def user_management():
 
         else:
             print("Invalid Choice.")
-
-
-
-
-user_management()
